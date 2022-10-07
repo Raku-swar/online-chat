@@ -1,5 +1,7 @@
 # online-chat
+https://online-chat-3047.herokuapp.com/login
+Register, Login and Chat with your friends
 
-run npm i 
-to install node_modules
+
+
 
